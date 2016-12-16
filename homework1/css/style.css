@@ -1,0 +1,51 @@
+body{
+    background-color: #f1f3f5;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial;
+    font-size: 36px;
+}
+h3{
+    font-family: "Myriad Pro";
+    font-size: 18px;
+    color: rgb(31, 31, 31);
+    font-weight: bold;
+}
+img{
+    border: 1px solid  rgb(143, 143, 143);
+    height: 204px;
+    margin: auto; 
+}
+p{
+    font-family: Arial;
+    font-size: 14px;
+}
+li{
+    font-family: Arial;
+    font-size: 14px;
+}
+hr{
+    background-color: rgb(31, 31, 31);
+    opacity: 0.22; 
+}
+a{
+    font-style: italic;
+    font-size: 14px;
+}
+.main{
+    height: 100%;
+    width: 500px;
+    margin: auto; 
+}
+.photo{
+    text-align: center;
+    height: auto;  
+}
+.text{
+    font-family: "Arial";
+    font-size: 14px;
+    color: rgba(31, 31, 31, 0.8); 
+}
+
