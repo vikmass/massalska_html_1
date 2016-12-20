@@ -65,13 +65,13 @@ body{
 .sidebar li {
    list-style-type: none;  
 }
-.center{
+.content{
     height: 650px;
     width: 680px;
     float: right;
    display: block;
 }
-.center p{
+.content p{
     display: block;
     float: right;
     width: 625px;
